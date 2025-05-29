@@ -35,3 +35,15 @@ Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteir
     1. Leia os valores de 'a' e 'b';
     2. O resultado será a soma de 'a' mais 'b';
     3. Mostre o resultado desta soma.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] + [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] + [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
